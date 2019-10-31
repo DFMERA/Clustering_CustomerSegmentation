@@ -5,3 +5,9 @@ Los cambios realizados en este proyecto son:
 * Se puede descargar y ejecutar este ejemplo en C# de Clustering_CustomerSegmentation sin necesidad de descargar toda la solución con todos los otros ejemplos en F# y CLI
 * Está actualizado a .NET Core 3.0
 * Se agrega un método para predecir la clasificación (cluster) de un solo cliente
+
+# Ver la explicación de los videos de ML.NET - Machine Learning en Español
+[Videos ML.NET](https://acelera.tech/2019/10/23/videos-de-ml-net-machine-learning-explicados-en-espanol/)
+
+# Seguir las revisiones de los cambios en:
+[acelera.tech](https://acelera.tech)
