@@ -6,6 +6,9 @@ Los cambios realizados en este proyecto son:
 * Está actualizado a .NET Core 3.0
 * Se agrega un método para predecir la clasificación (cluster) de un solo cliente
 
+# Los detalles de los cambios explicados en español están en este blog
+[Machine Learning | Segmentación de clientes usando ML.NET](https://acelera.tech/2020/01/07/machine-learning-segmentacion-de-clientes-usando-ml-net/)
+
 # Ver la explicación de los videos de ML.NET - Machine Learning en Español
 [Videos ML.NET](https://acelera.tech/2019/10/23/videos-de-ml-net-machine-learning-explicados-en-espanol/)
 
